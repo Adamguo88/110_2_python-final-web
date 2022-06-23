@@ -1,6 +1,6 @@
 .m-b {
   width: 100%;
-  background-color: #1abc9c;
+  background-color: #181055;
   margin-top: 92px;
   padding: 70px 0;
 }
@@ -25,13 +25,16 @@
   font-size: 64px;
   font-weight: bold;
   padding-bottom: 20px;
+  color: #e4ecab;
 }
 .intro-class{
   font-size: 24px;
   padding-bottom: 10px;
+  color: #e4ecab;
 }
 .intro-teacher{
   font-size: 24px;
+  color: #e4ecab;
 }
 
 
